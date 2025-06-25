@@ -17,7 +17,4 @@ This is a personal portfolio website project built using **HTML** and **CSS**. T
 ## 🎯 Project Status
 🛠️ This project is currently under development. More sections, styling enhancements, and responsiveness optimizations are coming soon!
 
-## 📸 Preview
-*(Add screenshots or a GIF of your website once available)*
 
-## 📂 Folder Structure
